@@ -1,0 +1,1512 @@
+﻿2015-04-06 14:04:02,122 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:04:02,163 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 32ms)
+2015-04-06 14:04:02,173 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:04:02,436 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 261ms)
+2015-04-06 14:04:02,554 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:04:02,558 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 4ms)
+2015-04-06 14:04:02,558 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:04:02,562 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 3ms)
+2015-04-06 14:04:02,602 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:04:02,605 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2015-04-06 14:04:02,605 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:04:02,607 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 2ms)
+2015-04-06 14:04:02,676 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:04:02,679 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 2ms)
+2015-04-06 14:04:02,680 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:04:02,682 [10] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,542 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,616 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,616 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,616 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,616 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,616 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,617 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,618 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,691 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:03,712 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 1] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:07,779 [10] INFO  Umbraco.Web.UmbracoModule - [Thread 9] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome./umbraco
+2015-04-06 14:04:08,541 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 9] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:08,542 [10] WARN  Umbraco.Web.UmbracoModule - [Thread 9] Umbraco is not configured
+2015-04-06 14:04:09,465 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 5] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:04:12,721 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 5] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:05:55,257 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:05:55,590 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 9] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:03,887 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:03,975 [10] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 13] Executing installation step: Permissions
+2015-04-06 14:06:04,104 [10] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 13] Step completed (took 133ms)
+2015-04-06 14:06:04,166 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,196 [10] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 13] Executing installation step: DatabaseConfigure
+2015-04-06 14:06:04,290 [10] INFO  Umbraco.Core.DatabaseContext - [Thread 13] Configured a new ConnectionString using the 'System.Data.SqlClient' provider.
+2015-04-06 14:06:04,399 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,414 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,414 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,422 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,428 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,429 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,429 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,505 [10] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 13] Step completed (took 321ms)
+2015-04-06 14:06:04,517 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,518 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:04,518 [10] INFO  Umbraco.Core.ApplicationContext - [Thread 14] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:06,475 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Determining hash of code files on disk
+2015-04-06 14:06:06,518 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Hash determined (took 37ms)
+2015-04-06 14:06:06,554 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:06:06,814 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 269ms)
+2015-04-06 14:06:06,926 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:06:06,969 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 45ms)
+2015-04-06 14:06:06,970 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:06:06,992 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 23ms)
+2015-04-06 14:06:07,010 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:06:07,033 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 23ms)
+2015-04-06 14:06:07,034 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:06:07,068 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 36ms)
+2015-04-06 14:06:07,135 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:06:07,167 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 34ms)
+2015-04-06 14:06:07,178 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:06:07,211 [8] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 34ms)
+2015-04-06 14:06:08,000 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,000 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,073 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,074 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,808 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:08,809 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,219 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,220 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,226 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 18] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:09,904 [8] INFO  Umbraco.Web.UmbracoModule - [Thread 17] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome./umbraco
+2015-04-06 14:06:10,241 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 17] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:10,718 [8] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 17] Executing installation step: DatabaseInstall
+2015-04-06 14:06:10,722 [8] INFO  Umbraco.Core.DatabaseContext - [Thread 17] Database configuration status: Started
+2015-04-06 14:06:11,057 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 17] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:11,057 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Initializing database schema creation
+2015-04-06 14:06:11,122 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoNode] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[trashed] BIT NOT NULL CONSTRAINT [DF_umbracoNode_trashed] DEFAULT ('0'),
+[parentID] INTEGER NOT NULL,
+[nodeUser] INTEGER NULL,
+[level] INTEGER NOT NULL,
+[path] NVARCHAR(150) NOT NULL,
+[sortOrder] INTEGER NOT NULL,
+[uniqueID] UniqueIdentifier NULL,
+[text] NVARCHAR(255) NULL,
+[nodeObjectType] UniqueIdentifier NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoNode_createDate] DEFAULT (getdate()))
+2015-04-06 14:06:11,128 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoNode] ADD CONSTRAINT [PK_structure] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,130 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoNode
+2015-04-06 14:06:11,206 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoNode
+2015-04-06 14:06:11,214 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoNode] ADD CONSTRAINT [FK_umbracoNode_umbracoNode_id] FOREIGN KEY ([parentID]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,218 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoNodeTrashed] ON [umbracoNode] ([trashed])
+2015-04-06 14:06:11,221 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoNodeParentId] ON [umbracoNode] ([parentID])
+2015-04-06 14:06:11,224 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoNodeUniqueID] ON [umbracoNode] ([uniqueID])
+2015-04-06 14:06:11,227 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoNodeObjectType] ON [umbracoNode] ([nodeObjectType])
+2015-04-06 14:06:11,230 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoNode' was created
+2015-04-06 14:06:11,234 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsContentType] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[nodeId] INTEGER NOT NULL,
+[alias] NVARCHAR(255) NULL,
+[icon] NVARCHAR(255) NULL,
+[thumbnail] NVARCHAR(255) NOT NULL CONSTRAINT [DF_cmsContentType_thumbnail] DEFAULT ('folder.png'),
+[description] NVARCHAR(1500) NULL,
+[isContainer] BIT NOT NULL CONSTRAINT [DF_cmsContentType_isContainer] DEFAULT ('0'),
+[allowAtRoot] BIT NOT NULL CONSTRAINT [DF_cmsContentType_allowAtRoot] DEFAULT ('0'))
+2015-04-06 14:06:11,238 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsContentType] ADD CONSTRAINT [PK_cmsContentType] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,239 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsContentType
+2015-04-06 14:06:11,247 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsContentType
+2015-04-06 14:06:11,252 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentType] ADD CONSTRAINT [FK_cmsContentType_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,255 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsContentType] ON [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,260 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsContentType_icon] ON [cmsContentType] ([icon])
+2015-04-06 14:06:11,261 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsContentType' was created
+2015-04-06 14:06:11,265 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsTemplate] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[nodeId] INTEGER NOT NULL,
+[master] INTEGER NULL,
+[alias] NVARCHAR(100) NULL,
+[design] NTEXT NOT NULL)
+2015-04-06 14:06:11,269 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsTemplate] ADD CONSTRAINT [PK_cmsTemplate] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,270 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsTemplate
+2015-04-06 14:06:11,270 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsTemplate
+2015-04-06 14:06:11,272 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTemplate] ADD CONSTRAINT [FK_cmsTemplate_umbracoNode] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,274 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTemplate] ADD CONSTRAINT [FK_cmsTemplate_cmsTemplate] FOREIGN KEY ([master]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,276 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsTemplate_nodeId] ON [cmsTemplate] ([nodeId])
+2015-04-06 14:06:11,279 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsTemplate' was created
+2015-04-06 14:06:11,282 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsContent] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[nodeId] INTEGER NOT NULL,
+[contentType] INTEGER NOT NULL)
+2015-04-06 14:06:11,287 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsContent] ADD CONSTRAINT [PK_cmsContent] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,288 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsContent
+2015-04-06 14:06:11,288 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsContent
+2015-04-06 14:06:11,292 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContent] ADD CONSTRAINT [FK_cmsContent_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,296 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContent] ADD CONSTRAINT [FK_cmsContent_cmsContentType_nodeId] FOREIGN KEY ([contentType]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,304 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsContent] ON [cmsContent] ([nodeId])
+2015-04-06 14:06:11,307 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsContent' was created
+2015-04-06 14:06:11,314 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsContentVersion] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[ContentId] INTEGER NOT NULL,
+[VersionId] UniqueIdentifier NOT NULL,
+[VersionDate] DATETIME NOT NULL CONSTRAINT [DF_cmsContentVersion_VersionDate] DEFAULT (getdate()),
+[LanguageLocale] NVARCHAR(10) NULL)
+2015-04-06 14:06:11,319 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsContentVersion] ADD CONSTRAINT [PK_cmsContentVersion] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,321 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsContentVersion
+2015-04-06 14:06:11,321 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsContentVersion
+2015-04-06 14:06:11,325 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentVersion] ADD CONSTRAINT [FK_cmsContentVersion_cmsContent_nodeId] FOREIGN KEY ([ContentId]) REFERENCES [cmsContent] ([nodeId])
+2015-04-06 14:06:11,327 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsContentVersion_ContentId] ON [cmsContentVersion] ([ContentId])
+2015-04-06 14:06:11,328 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsContentVersion_VersionId] ON [cmsContentVersion] ([VersionId])
+2015-04-06 14:06:11,329 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsContentVersion' was created
+2015-04-06 14:06:11,336 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsDocument] ([nodeId] INTEGER NOT NULL,
+[published] BIT NOT NULL,
+[documentUser] INTEGER NOT NULL,
+[versionId] UniqueIdentifier NOT NULL,
+[text] NVARCHAR(255) NOT NULL,
+[releaseDate] DATETIME NULL,
+[expireDate] DATETIME NULL,
+[updateDate] DATETIME NOT NULL CONSTRAINT [DF_cmsDocument_updateDate] DEFAULT (getdate()),
+[templateId] INTEGER NULL,
+[newest] BIT NOT NULL CONSTRAINT [DF_cmsDocument_newest] DEFAULT ('0'))
+2015-04-06 14:06:11,338 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [PK_cmsDocument] PRIMARY KEY CLUSTERED ([versionId])
+2015-04-06 14:06:11,338 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsDocument
+2015-04-06 14:06:11,338 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsDocument
+2015-04-06 14:06:11,340 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [FK_cmsDocument_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,342 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [FK_cmsDocument_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2015-04-06 14:06:11,344 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocument] ADD CONSTRAINT [FK_cmsDocument_cmsTemplate_nodeId] FOREIGN KEY ([templateId]) REFERENCES [cmsTemplate] ([nodeId])
+2015-04-06 14:06:11,347 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsDocument] ON [cmsDocument] ([nodeId],[versionId])
+2015-04-06 14:06:11,348 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsDocument_published] ON [cmsDocument] ([published])
+2015-04-06 14:06:11,349 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsDocument_newest] ON [cmsDocument] ([newest])
+2015-04-06 14:06:11,350 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsDocument' was created
+2015-04-06 14:06:11,353 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsDocumentType] ([contentTypeNodeId] INTEGER NOT NULL,
+[templateNodeId] INTEGER NOT NULL,
+[IsDefault] BIT NOT NULL CONSTRAINT [DF_cmsDocumentType_IsDefault] DEFAULT ('0'))
+2015-04-06 14:06:11,356 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [PK_cmsDocumentType] PRIMARY KEY CLUSTERED ([contentTypeNodeId], [templateNodeId])
+2015-04-06 14:06:11,356 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsDocumentType
+2015-04-06 14:06:11,356 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsDocumentType
+2015-04-06 14:06:11,358 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [FK_cmsDocumentType_cmsContentType_nodeId] FOREIGN KEY ([contentTypeNodeId]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,359 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [FK_cmsDocumentType_umbracoNode_id] FOREIGN KEY ([contentTypeNodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,361 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDocumentType] ADD CONSTRAINT [FK_cmsDocumentType_cmsTemplate_nodeId] FOREIGN KEY ([templateNodeId]) REFERENCES [cmsTemplate] ([nodeId])
+2015-04-06 14:06:11,362 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsDocumentType' was created
+2015-04-06 14:06:11,366 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsDataType] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[nodeId] INTEGER NOT NULL,
+[propertyEditorAlias] NVARCHAR(255) NOT NULL,
+[dbType] NVARCHAR(50) NOT NULL)
+2015-04-06 14:06:11,381 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsDataType] ADD CONSTRAINT [PK_cmsDataType] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,382 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsDataType
+2015-04-06 14:06:11,412 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsDataType
+2015-04-06 14:06:11,415 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDataType] ADD CONSTRAINT [FK_cmsDataType_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,417 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsDataType_nodeId] ON [cmsDataType] ([nodeId])
+2015-04-06 14:06:11,418 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsDataType' was created
+2015-04-06 14:06:11,422 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsDataTypePreValues] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[datatypeNodeId] INTEGER NOT NULL,
+[value] NTEXT NULL,
+[sortorder] INTEGER NOT NULL,
+[alias] NVARCHAR(50) NULL)
+2015-04-06 14:06:11,426 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsDataTypePreValues] ADD CONSTRAINT [PK_cmsDataTypePreValues] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,427 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsDataTypePreValues
+2015-04-06 14:06:11,439 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsDataTypePreValues
+2015-04-06 14:06:11,444 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsDataTypePreValues] ADD CONSTRAINT [FK_cmsDataTypePreValues_cmsDataType_nodeId] FOREIGN KEY ([datatypeNodeId]) REFERENCES [cmsDataType] ([nodeId])
+2015-04-06 14:06:11,445 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsDataTypePreValues' was created
+2015-04-06 14:06:11,448 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsDictionary] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[id] UniqueIdentifier NOT NULL,
+[parent] UniqueIdentifier NOT NULL,
+[key] NVARCHAR(1000) NOT NULL)
+2015-04-06 14:06:11,451 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsDictionary] ADD CONSTRAINT [PK_cmsDictionary] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,453 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsDictionary
+2015-04-06 14:06:11,453 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsDictionary
+2015-04-06 14:06:11,455 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsDictionary_id] ON [cmsDictionary] ([id])
+2015-04-06 14:06:11,455 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsDictionary' was created
+2015-04-06 14:06:11,459 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsLanguageText] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[languageId] INTEGER NOT NULL,
+[UniqueId] UniqueIdentifier NOT NULL,
+[value] NVARCHAR(1000) NOT NULL)
+2015-04-06 14:06:11,461 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsLanguageText] ADD CONSTRAINT [PK_cmsLanguageText] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,462 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsLanguageText
+2015-04-06 14:06:11,462 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsLanguageText
+2015-04-06 14:06:11,464 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsLanguageText] ADD CONSTRAINT [FK_cmsLanguageText_cmsDictionary_id] FOREIGN KEY ([UniqueId]) REFERENCES [cmsDictionary] ([id])
+2015-04-06 14:06:11,467 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsLanguageText' was created
+2015-04-06 14:06:11,470 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoLanguage] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[languageISOCode] NVARCHAR(10) NULL,
+[languageCultureName] NVARCHAR(100) NULL)
+2015-04-06 14:06:11,473 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoLanguage] ADD CONSTRAINT [PK_umbracoLanguage] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,474 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoLanguage
+2015-04-06 14:06:11,479 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoLanguage
+2015-04-06 14:06:11,482 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoLanguage_languageISOCode] ON [umbracoLanguage] ([languageISOCode])
+2015-04-06 14:06:11,485 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoLanguage' was created
+2015-04-06 14:06:11,490 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoDomains] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[domainDefaultLanguage] INTEGER NULL,
+[domainRootStructureID] INTEGER NULL,
+[domainName] NVARCHAR(255) NOT NULL)
+2015-04-06 14:06:11,493 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoDomains] ADD CONSTRAINT [PK_umbracoDomains] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,495 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoDomains
+2015-04-06 14:06:11,495 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoDomains
+2015-04-06 14:06:11,498 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoDomains] ADD CONSTRAINT [FK_umbracoDomains_umbracoNode_id] FOREIGN KEY ([domainRootStructureID]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,499 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoDomains' was created
+2015-04-06 14:06:11,503 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoLog] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userId] INTEGER NOT NULL,
+[NodeId] INTEGER NOT NULL,
+[Datestamp] DATETIME NOT NULL CONSTRAINT [DF_umbracoLog_Datestamp] DEFAULT (getdate()),
+[logHeader] NVARCHAR(50) NOT NULL,
+[logComment] NVARCHAR(4000) NULL)
+2015-04-06 14:06:11,508 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoLog] ADD CONSTRAINT [PK_umbracoLog] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,509 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoLog
+2015-04-06 14:06:11,509 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoLog
+2015-04-06 14:06:11,511 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoLog] ON [umbracoLog] ([NodeId])
+2015-04-06 14:06:11,511 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoLog' was created
+2015-04-06 14:06:11,517 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsMacro] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[macroUseInEditor] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroUseInEditor] DEFAULT ('0'),
+[macroRefreshRate] INTEGER NOT NULL CONSTRAINT [DF_cmsMacro_macroRefreshRate] DEFAULT ('0'),
+[macroAlias] NVARCHAR(255) NOT NULL,
+[macroName] NVARCHAR(255) NULL,
+[macroScriptType] NVARCHAR(255) NULL,
+[macroScriptAssembly] NVARCHAR(255) NULL,
+[macroXSLT] NVARCHAR(255) NULL,
+[macroCacheByPage] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroCacheByPage] DEFAULT ('1'),
+[macroCachePersonalized] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroCachePersonalized] DEFAULT ('0'),
+[macroDontRender] BIT NOT NULL CONSTRAINT [DF_cmsMacro_macroDontRender] DEFAULT ('0'),
+[macroPython] NVARCHAR(255) NULL)
+2015-04-06 14:06:11,520 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsMacro] ADD CONSTRAINT [PK_cmsMacro] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,520 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsMacro
+2015-04-06 14:06:11,520 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsMacro
+2015-04-06 14:06:11,522 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsMacroPropertyAlias] ON [cmsMacro] ([macroAlias])
+2015-04-06 14:06:11,523 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsMacro' was created
+2015-04-06 14:06:11,527 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsMacroProperty] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[editorAlias] NVARCHAR(255) NOT NULL,
+[macro] INTEGER NOT NULL,
+[macroPropertySortOrder] INTEGER NOT NULL CONSTRAINT [DF_cmsMacroProperty_macroPropertySortOrder] DEFAULT ('0'),
+[macroPropertyAlias] NVARCHAR(50) NOT NULL,
+[macroPropertyName] NVARCHAR(255) NOT NULL)
+2015-04-06 14:06:11,529 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsMacroProperty] ADD CONSTRAINT [PK_cmsMacroProperty] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,530 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsMacroProperty
+2015-04-06 14:06:11,530 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsMacroProperty
+2015-04-06 14:06:11,533 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMacroProperty] ADD CONSTRAINT [FK_cmsMacroProperty_cmsMacro_id] FOREIGN KEY ([macro]) REFERENCES [cmsMacro] ([id])
+2015-04-06 14:06:11,535 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsMacroProperty_Alias] ON [cmsMacroProperty] ([macro],[macroPropertyAlias])
+2015-04-06 14:06:11,537 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsMacroProperty' was created
+2015-04-06 14:06:11,541 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsMemberType] ([pk] INTEGER NOT NULL IDENTITY(1,1),
+[NodeId] INTEGER NOT NULL,
+[propertytypeId] INTEGER NOT NULL,
+[memberCanEdit] BIT NOT NULL CONSTRAINT [DF_cmsMemberType_memberCanEdit] DEFAULT ('0'),
+[viewOnProfile] BIT NOT NULL CONSTRAINT [DF_cmsMemberType_viewOnProfile] DEFAULT ('0'))
+2015-04-06 14:06:11,553 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsMemberType] ADD CONSTRAINT [PK_cmsMemberType] PRIMARY KEY CLUSTERED ([pk])
+2015-04-06 14:06:11,556 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsMemberType
+2015-04-06 14:06:11,556 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsMemberType
+2015-04-06 14:06:11,560 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMemberType] ADD CONSTRAINT [FK_cmsMemberType_cmsContentType_nodeId] FOREIGN KEY ([NodeId]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,564 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMemberType] ADD CONSTRAINT [FK_cmsMemberType_umbracoNode_id] FOREIGN KEY ([NodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,564 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsMemberType' was created
+2015-04-06 14:06:11,569 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsMember] ([nodeId] INTEGER NOT NULL,
+[Email] NVARCHAR(1000) NOT NULL CONSTRAINT [DF_cmsMember_Email] DEFAULT (''''),
+[LoginName] NVARCHAR(1000) NOT NULL CONSTRAINT [DF_cmsMember_LoginName] DEFAULT (''''),
+[Password] NVARCHAR(1000) NOT NULL CONSTRAINT [DF_cmsMember_Password] DEFAULT (''''))
+2015-04-06 14:06:11,571 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsMember] ADD CONSTRAINT [PK_cmsMember] PRIMARY KEY CLUSTERED ([nodeId])
+2015-04-06 14:06:11,571 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsMember
+2015-04-06 14:06:11,571 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsMember
+2015-04-06 14:06:11,573 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember] ADD CONSTRAINT [FK_cmsMember_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2015-04-06 14:06:11,575 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember] ADD CONSTRAINT [FK_cmsMember_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,575 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsMember' was created
+2015-04-06 14:06:11,579 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsMember2MemberGroup] ([Member] INTEGER NOT NULL,
+[MemberGroup] INTEGER NOT NULL)
+2015-04-06 14:06:11,582 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsMember2MemberGroup] ADD CONSTRAINT [PK_cmsMember2MemberGroup] PRIMARY KEY CLUSTERED ([Member], [MemberGroup])
+2015-04-06 14:06:11,582 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsMember2MemberGroup
+2015-04-06 14:06:11,582 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsMember2MemberGroup
+2015-04-06 14:06:11,584 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember2MemberGroup] ADD CONSTRAINT [FK_cmsMember2MemberGroup_cmsMember_nodeId] FOREIGN KEY ([Member]) REFERENCES [cmsMember] ([nodeId])
+2015-04-06 14:06:11,586 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsMember2MemberGroup] ADD CONSTRAINT [FK_cmsMember2MemberGroup_umbracoNode_id] FOREIGN KEY ([MemberGroup]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,586 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsMember2MemberGroup' was created
+2015-04-06 14:06:11,590 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsContentXml] ([nodeId] INTEGER NOT NULL,
+[xml] NTEXT NOT NULL)
+2015-04-06 14:06:11,592 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsContentXml] ADD CONSTRAINT [PK_cmsContentXml] PRIMARY KEY CLUSTERED ([nodeId])
+2015-04-06 14:06:11,592 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsContentXml
+2015-04-06 14:06:11,592 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsContentXml
+2015-04-06 14:06:11,594 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentXml] ADD CONSTRAINT [FK_cmsContentXml_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2015-04-06 14:06:11,594 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsContentXml' was created
+2015-04-06 14:06:11,599 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsPreviewXml] ([nodeId] INTEGER NOT NULL,
+[versionId] UniqueIdentifier NOT NULL,
+[timestamp] DATETIME NOT NULL,
+[xml] NTEXT NOT NULL)
+2015-04-06 14:06:11,601 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsPreviewXml] ADD CONSTRAINT [PK_cmsContentPreviewXml] PRIMARY KEY CLUSTERED ([nodeId], [versionId])
+2015-04-06 14:06:11,601 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsPreviewXml
+2015-04-06 14:06:11,601 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsPreviewXml
+2015-04-06 14:06:11,603 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPreviewXml] ADD CONSTRAINT [FK_cmsPreviewXml_cmsContent_nodeId] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2015-04-06 14:06:11,605 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPreviewXml] ADD CONSTRAINT [FK_cmsPreviewXml_cmsContentVersion_VersionId] FOREIGN KEY ([versionId]) REFERENCES [cmsContentVersion] ([VersionId])
+2015-04-06 14:06:11,605 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsPreviewXml' was created
+2015-04-06 14:06:11,609 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsPropertyTypeGroup] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[parentGroupId] INTEGER NULL,
+[contenttypeNodeId] INTEGER NOT NULL,
+[text] NVARCHAR(255) NOT NULL,
+[sortorder] INTEGER NOT NULL)
+2015-04-06 14:06:11,611 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsPropertyTypeGroup] ADD CONSTRAINT [PK_cmsPropertyTypeGroup] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,612 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsPropertyTypeGroup
+2015-04-06 14:06:11,620 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsPropertyTypeGroup
+2015-04-06 14:06:11,623 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyTypeGroup] ADD CONSTRAINT [FK_cmsPropertyTypeGroup_cmsPropertyTypeGroup_id] FOREIGN KEY ([parentGroupId]) REFERENCES [cmsPropertyTypeGroup] ([id])
+2015-04-06 14:06:11,626 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyTypeGroup] ADD CONSTRAINT [FK_cmsPropertyTypeGroup_cmsContentType_nodeId] FOREIGN KEY ([contenttypeNodeId]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,629 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsPropertyTypeGroup' was created
+2015-04-06 14:06:11,633 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsPropertyType] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[dataTypeId] INTEGER NOT NULL,
+[contentTypeId] INTEGER NOT NULL,
+[propertyTypeGroupId] INTEGER NULL,
+[Alias] NVARCHAR(255) NOT NULL,
+[Name] NVARCHAR(255) NULL,
+[helpText] NVARCHAR(1000) NULL,
+[sortOrder] INTEGER NOT NULL CONSTRAINT [DF_cmsPropertyType_sortOrder] DEFAULT ('0'),
+[mandatory] BIT NOT NULL CONSTRAINT [DF_cmsPropertyType_mandatory] DEFAULT ('0'),
+[validationRegExp] NVARCHAR(255) NULL,
+[Description] NVARCHAR(2000) NULL)
+2015-04-06 14:06:11,635 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [PK_cmsPropertyType] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,636 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsPropertyType
+2015-04-06 14:06:11,664 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsPropertyType
+2015-04-06 14:06:11,672 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [FK_cmsPropertyType_cmsDataType_nodeId] FOREIGN KEY ([dataTypeId]) REFERENCES [cmsDataType] ([nodeId])
+2015-04-06 14:06:11,675 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [FK_cmsPropertyType_cmsContentType_nodeId] FOREIGN KEY ([contentTypeId]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,683 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyType] ADD CONSTRAINT [FK_cmsPropertyType_cmsPropertyTypeGroup_id] FOREIGN KEY ([propertyTypeGroupId]) REFERENCES [cmsPropertyTypeGroup] ([id])
+2015-04-06 14:06:11,684 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsPropertyType' was created
+2015-04-06 14:06:11,748 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsPropertyData] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[contentNodeId] INTEGER NOT NULL,
+[versionId] UniqueIdentifier NULL,
+[propertytypeid] INTEGER NOT NULL,
+[dataInt] INTEGER NULL,
+[dataDate] DATETIME NULL,
+[dataNvarchar] NVARCHAR(500) NULL,
+[dataNtext] NTEXT NULL)
+2015-04-06 14:06:11,751 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsPropertyData] ADD CONSTRAINT [PK_cmsPropertyData] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,753 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsPropertyData
+2015-04-06 14:06:11,753 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsPropertyData
+2015-04-06 14:06:11,756 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyData] ADD CONSTRAINT [FK_cmsPropertyData_umbracoNode_id] FOREIGN KEY ([contentNodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,758 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsPropertyData] ADD CONSTRAINT [FK_cmsPropertyData_cmsPropertyType_id] FOREIGN KEY ([propertytypeid]) REFERENCES [cmsPropertyType] ([id])
+2015-04-06 14:06:11,760 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData] ON [cmsPropertyData] ([id])
+2015-04-06 14:06:11,761 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData_1] ON [cmsPropertyData] ([contentNodeId])
+2015-04-06 14:06:11,762 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData_2] ON [cmsPropertyData] ([versionId])
+2015-04-06 14:06:11,764 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsPropertyData_3] ON [cmsPropertyData] ([propertytypeid])
+2015-04-06 14:06:11,769 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsPropertyData' was created
+2015-04-06 14:06:11,773 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoRelationType] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[dual] BIT NOT NULL,
+[parentObjectType] UniqueIdentifier NOT NULL,
+[childObjectType] UniqueIdentifier NOT NULL,
+[name] NVARCHAR(255) NOT NULL,
+[alias] NVARCHAR(100) NULL)
+2015-04-06 14:06:11,777 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoRelationType] ADD CONSTRAINT [PK_umbracoRelationType] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,778 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoRelationType
+2015-04-06 14:06:11,782 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoRelationType
+2015-04-06 14:06:11,785 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoRelationType' was created
+2015-04-06 14:06:11,788 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoRelation] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[parentId] INTEGER NOT NULL,
+[childId] INTEGER NOT NULL,
+[relType] INTEGER NOT NULL,
+[datetime] DATETIME NOT NULL CONSTRAINT [DF_umbracoRelation_datetime] DEFAULT (getdate()),
+[comment] NVARCHAR(1000) NOT NULL)
+2015-04-06 14:06:11,792 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [PK_umbracoRelation] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,794 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoRelation
+2015-04-06 14:06:11,794 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoRelation
+2015-04-06 14:06:11,796 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [FK_umbracoRelation_umbracoNode] FOREIGN KEY ([parentId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,799 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [FK_umbracoRelation_umbracoNode1] FOREIGN KEY ([childId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,801 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoRelation] ADD CONSTRAINT [FK_umbracoRelation_umbracoRelationType_id] FOREIGN KEY ([relType]) REFERENCES [umbracoRelationType] ([id])
+2015-04-06 14:06:11,803 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoRelation' was created
+2015-04-06 14:06:11,808 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsStylesheet] ([nodeId] INTEGER NOT NULL,
+[filename] NVARCHAR(100) NOT NULL,
+[content] NTEXT NULL)
+2015-04-06 14:06:11,811 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsStylesheet] ADD CONSTRAINT [PK_cmsStylesheet] PRIMARY KEY CLUSTERED ([nodeId])
+2015-04-06 14:06:11,811 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsStylesheet
+2015-04-06 14:06:11,811 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsStylesheet
+2015-04-06 14:06:11,813 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsStylesheet] ADD CONSTRAINT [FK_cmsStylesheet_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,814 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsStylesheet' was created
+2015-04-06 14:06:11,818 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsStylesheetProperty] ([nodeId] INTEGER NOT NULL,
+[stylesheetPropertyEditor] BIT NULL,
+[stylesheetPropertyAlias] NVARCHAR(50) NULL,
+[stylesheetPropertyValue] NVARCHAR(400) NULL)
+2015-04-06 14:06:11,821 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsStylesheetProperty] ADD CONSTRAINT [PK_cmsStylesheetProperty] PRIMARY KEY CLUSTERED ([nodeId])
+2015-04-06 14:06:11,821 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsStylesheetProperty
+2015-04-06 14:06:11,821 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsStylesheetProperty
+2015-04-06 14:06:11,822 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsStylesheetProperty' was created
+2015-04-06 14:06:11,826 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsTags] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[tag] NVARCHAR(200) NULL,
+[ParentId] INTEGER NULL,
+[group] NVARCHAR(100) NULL)
+2015-04-06 14:06:11,828 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsTags] ADD CONSTRAINT [PK_cmsTags] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,829 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsTags
+2015-04-06 14:06:11,829 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsTags
+2015-04-06 14:06:11,840 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTags] ADD CONSTRAINT [FK_cmsTags_cmsTags] FOREIGN KEY ([ParentId]) REFERENCES [cmsTags] ([id])
+2015-04-06 14:06:11,842 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsTags] ON [cmsTags] ([tag],[group])
+2015-04-06 14:06:11,842 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsTags' was created
+2015-04-06 14:06:11,846 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsTagRelationship] ([nodeId] INTEGER NOT NULL,
+[tagId] INTEGER NOT NULL,
+[propertyTypeId] INTEGER NOT NULL)
+2015-04-06 14:06:11,848 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [PK_cmsTagRelationship] PRIMARY KEY CLUSTERED ([nodeId], [propertyTypeId], [tagId])
+2015-04-06 14:06:11,848 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsTagRelationship
+2015-04-06 14:06:11,848 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsTagRelationship
+2015-04-06 14:06:11,850 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [FK_cmsTagRelationship_cmsContent] FOREIGN KEY ([nodeId]) REFERENCES [cmsContent] ([nodeId])
+2015-04-06 14:06:11,852 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [FK_cmsTagRelationship_cmsTags_id] FOREIGN KEY ([tagId]) REFERENCES [cmsTags] ([id])
+2015-04-06 14:06:11,854 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTagRelationship] ADD CONSTRAINT [FK_cmsTagRelationship_cmsPropertyType] FOREIGN KEY ([propertyTypeId]) REFERENCES [cmsPropertyType] ([id])
+2015-04-06 14:06:11,855 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsTagRelationship' was created
+2015-04-06 14:06:11,859 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoUserLogins] ([contextID] UniqueIdentifier NOT NULL,
+[userID] INTEGER NOT NULL,
+[timeout] BIGINT NOT NULL)
+2015-04-06 14:06:11,859 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoUserLogins
+2015-04-06 14:06:11,859 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoUserLogins
+2015-04-06 14:06:11,861 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE CLUSTERED INDEX [IX_umbracoUserLogins_Index] ON [umbracoUserLogins] ([contextID])
+2015-04-06 14:06:11,862 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoUserLogins' was created
+2015-04-06 14:06:11,866 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoUserType] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userTypeAlias] NVARCHAR(50) NULL,
+[userTypeName] NVARCHAR(255) NOT NULL,
+[userTypeDefaultPermissions] NVARCHAR(50) NULL)
+2015-04-06 14:06:11,869 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoUserType] ADD CONSTRAINT [PK_umbracoUserType] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,870 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoUserType
+2015-04-06 14:06:11,877 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoUserType
+2015-04-06 14:06:11,878 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoUserType' was created
+2015-04-06 14:06:11,882 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoUser] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userDisabled] BIT NOT NULL CONSTRAINT [DF_umbracoUser_userDisabled] DEFAULT ('0'),
+[userNoConsole] BIT NOT NULL CONSTRAINT [DF_umbracoUser_userNoConsole] DEFAULT ('0'),
+[userType] INTEGER NOT NULL,
+[startStructureID] INTEGER NOT NULL,
+[startMediaID] INTEGER NULL,
+[userName] NVARCHAR(255) NOT NULL,
+[userLogin] NVARCHAR(125) NOT NULL,
+[userPassword] NVARCHAR(500) NOT NULL,
+[userEmail] NVARCHAR(255) NOT NULL,
+[userLanguage] NVARCHAR(10) NULL)
+2015-04-06 14:06:11,885 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoUser] ADD CONSTRAINT [PK_user] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,886 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoUser
+2015-04-06 14:06:11,892 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoUser
+2015-04-06 14:06:11,898 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser] ADD CONSTRAINT [FK_umbracoUser_umbracoUserType_id] FOREIGN KEY ([userType]) REFERENCES [umbracoUserType] ([id])
+2015-04-06 14:06:11,901 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoUser_userLogin] ON [umbracoUser] ([userLogin])
+2015-04-06 14:06:11,903 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoUser' was created
+2015-04-06 14:06:11,907 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsTaskType] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[alias] NVARCHAR(255) NOT NULL)
+2015-04-06 14:06:11,910 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsTaskType] ADD CONSTRAINT [PK_cmsTaskType] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,911 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsTaskType
+2015-04-06 14:06:11,913 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsTaskType
+2015-04-06 14:06:11,924 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_cmsTaskType_alias] ON [cmsTaskType] ([alias])
+2015-04-06 14:06:11,925 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsTaskType' was created
+2015-04-06 14:06:11,930 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsTask] ([closed] BIT NOT NULL CONSTRAINT [DF_cmsTask_closed] DEFAULT ('0'),
+[id] INTEGER NOT NULL IDENTITY(1,1),
+[taskTypeId] INTEGER NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[parentUserId] INTEGER NOT NULL,
+[userId] INTEGER NOT NULL,
+[DateTime] DATETIME NOT NULL CONSTRAINT [DF_cmsTask_DateTime] DEFAULT (getdate()),
+[Comment] NVARCHAR(500) NULL)
+2015-04-06 14:06:11,933 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [PK_cmsTask] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:11,935 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsTask
+2015-04-06 14:06:11,935 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsTask
+2015-04-06 14:06:11,938 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_cmsTaskType_id] FOREIGN KEY ([taskTypeId]) REFERENCES [cmsTaskType] ([id])
+2015-04-06 14:06:11,941 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,942 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_umbracoUser] FOREIGN KEY ([parentUserId]) REFERENCES [umbracoUser] ([id])
+2015-04-06 14:06:11,944 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsTask] ADD CONSTRAINT [FK_cmsTask_umbracoUser1] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+2015-04-06 14:06:11,945 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsTask' was created
+2015-04-06 14:06:11,949 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsContentType2ContentType] ([parentContentTypeId] INTEGER NOT NULL,
+[childContentTypeId] INTEGER NOT NULL)
+2015-04-06 14:06:11,951 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsContentType2ContentType] ADD CONSTRAINT [PK_cmsContentType2ContentType] PRIMARY KEY CLUSTERED ([parentContentTypeId], [childContentTypeId])
+2015-04-06 14:06:11,951 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsContentType2ContentType
+2015-04-06 14:06:11,951 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsContentType2ContentType
+2015-04-06 14:06:11,953 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentType2ContentType] ADD CONSTRAINT [FK_cmsContentType2ContentType_umbracoNode_parent] FOREIGN KEY ([parentContentTypeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,953 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentType2ContentType] ADD CONSTRAINT [FK_cmsContentType2ContentType_umbracoNode_child] FOREIGN KEY ([childContentTypeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:11,954 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsContentType2ContentType' was created
+2015-04-06 14:06:11,958 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [cmsContentTypeAllowedContentType] ([Id] INTEGER NOT NULL,
+[AllowedId] INTEGER NOT NULL,
+[SortOrder] INTEGER NOT NULL CONSTRAINT df_cmsContentTypeAllowedContentType_sortOrder DEFAULT ('0'))
+2015-04-06 14:06:11,960 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [cmsContentTypeAllowedContentType] ADD CONSTRAINT [PK_cmsContentTypeAllowedContentType] PRIMARY KEY CLUSTERED ([Id], [AllowedId])
+2015-04-06 14:06:11,960 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table cmsContentTypeAllowedContentType
+2015-04-06 14:06:11,965 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table cmsContentTypeAllowedContentType
+2015-04-06 14:06:11,970 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentTypeAllowedContentType] ADD CONSTRAINT [FK_cmsContentTypeAllowedContentType_cmsContentType] FOREIGN KEY ([Id]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,973 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [cmsContentTypeAllowedContentType] ADD CONSTRAINT [FK_cmsContentTypeAllowedContentType_cmsContentType1] FOREIGN KEY ([AllowedId]) REFERENCES [cmsContentType] ([nodeId])
+2015-04-06 14:06:11,974 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'cmsContentTypeAllowedContentType' was created
+2015-04-06 14:06:11,978 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoUser2app] ([user] INTEGER NOT NULL,
+[app] NVARCHAR(50) NOT NULL)
+2015-04-06 14:06:11,981 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoUser2app] ADD CONSTRAINT [PK_user2app] PRIMARY KEY CLUSTERED ([user], [app])
+2015-04-06 14:06:11,981 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoUser2app
+2015-04-06 14:06:11,991 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoUser2app
+2015-04-06 14:06:11,995 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2app] ADD CONSTRAINT [FK_umbracoUser2app_umbracoUser_id] FOREIGN KEY ([user]) REFERENCES [umbracoUser] ([id])
+2015-04-06 14:06:11,995 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoUser2app' was created
+2015-04-06 14:06:12,000 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoUser2NodeNotify] ([userId] INTEGER NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[action] NCHAR(1) NOT NULL)
+2015-04-06 14:06:12,002 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoUser2NodeNotify] ADD CONSTRAINT [PK_umbracoUser2NodeNotify] PRIMARY KEY CLUSTERED ([userId], [nodeId], [action])
+2015-04-06 14:06:12,003 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoUser2NodeNotify
+2015-04-06 14:06:12,003 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoUser2NodeNotify
+2015-04-06 14:06:12,010 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodeNotify] ADD CONSTRAINT [FK_umbracoUser2NodeNotify_umbracoUser_id] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+2015-04-06 14:06:12,012 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodeNotify] ADD CONSTRAINT [FK_umbracoUser2NodeNotify_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:12,013 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoUser2NodeNotify' was created
+2015-04-06 14:06:12,017 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoUser2NodePermission] ([userId] INTEGER NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[permission] NVARCHAR(255) NOT NULL)
+2015-04-06 14:06:12,020 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoUser2NodePermission] ADD CONSTRAINT [PK_umbracoUser2NodePermission] PRIMARY KEY CLUSTERED ([userId], [nodeId], [permission])
+2015-04-06 14:06:12,020 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoUser2NodePermission
+2015-04-06 14:06:12,020 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoUser2NodePermission
+2015-04-06 14:06:12,021 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodePermission] ADD CONSTRAINT [FK_umbracoUser2NodePermission_umbracoUser_id] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+2015-04-06 14:06:12,023 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Foreign Key sql -1:
+ ALTER TABLE [umbracoUser2NodePermission] ADD CONSTRAINT [FK_umbracoUser2NodePermission_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+2015-04-06 14:06:12,023 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoUser2NodePermission' was created
+2015-04-06 14:06:12,027 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [umbracoServer] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[address] NVARCHAR(500) NOT NULL,
+[computerName] NVARCHAR(255) NOT NULL,
+[registeredDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoServer_registeredDate] DEFAULT (getdate()),
+[lastNotifiedDate] DATETIME NOT NULL,
+[isActive] BIT NOT NULL)
+2015-04-06 14:06:12,030 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [umbracoServer] ADD CONSTRAINT [PK_umbracoServer] PRIMARY KEY CLUSTERED ([id])
+2015-04-06 14:06:12,031 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Creating data in table umbracoServer
+2015-04-06 14:06:12,031 [8] INFO  Umbraco.Core.Persistence.Migrations.Initial.BaseDataCreation - [Thread 17] Done creating data in table umbracoServer
+2015-04-06 14:06:12,033 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE UNIQUE NONCLUSTERED INDEX [IX_computerName] ON [umbracoServer] ([computerName])
+2015-04-06 14:06:12,035 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Index sql -1:
+ CREATE NONCLUSTERED INDEX [IX_umbracoServer_isActive] ON [umbracoServer] ([isActive])
+2015-04-06 14:06:12,035 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'umbracoServer' was created
+2015-04-06 14:06:12,036 [8] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Finalized database schema creation
+2015-04-06 14:06:12,036 [8] INFO  Umbraco.Core.DatabaseContext - [Thread 17] Database configuration status: <p>Installation completed!</p>
+2015-04-06 14:06:12,038 [8] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 17] Step completed (took 1369ms)
+2015-04-06 14:06:12,079 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 17] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:12,429 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:12,451 [8] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 13] Executing installation step: User
+2015-04-06 14:06:12,755 [8] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:06:12,761 [8] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 5ms)
+2015-04-06 14:06:12,966 [8] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 13] Step completed (took 527ms)
+2015-04-06 14:06:13,009 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 9] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,038 [8] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 9] Executing installation step: UmbracoVersion
+2015-04-06 14:06:13,071 [8] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-04-06 14:06:13,102 [8] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 30ms)
+2015-04-06 14:06:13,116 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 9] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,118 [8] WARN  Umbraco.Web.WebBootManager - [Thread 9] Could not initialize the DefaultServerMessenger, the application is not configured or the database is not configured
+2015-04-06 14:06:13,178 [8] INFO  umbraco.content - [Thread 9] Loading content from database...
+2015-04-06 14:06:13,328 [8] INFO  Umbraco.Core.Configuration.ClientDependencyConfiguration - [Thread 9] Updated version number from 1 to 1623212716
+2015-04-06 14:06:13,404 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,419 [8] INFO  Umbraco.Web.Security.WebSecurity - [Thread 9] User Id: 0 logged in
+2015-04-06 14:06:13,460 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,460 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,471 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,473 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,474 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,474 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,493 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,493 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:13,493 [8] INFO  Umbraco.Core.ApplicationContext - [Thread 13] CurrentVersion different from configStatus: '7.2.4',''
+2015-04-06 14:06:14,391 [8] INFO  Umbraco.Web.Install.Controllers.InstallApiController - [Thread 9] Step completed (took 1352ms)
+2015-04-06 14:06:15,326 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Determining hash of code files on disk
+2015-04-06 14:06:15,342 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Hash determined (took 7ms)
+2015-04-06 14:06:15,392 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:06:15,452 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 57ms)
+2015-04-06 14:06:15,587 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:06:15,589 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:06:15,589 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:06:15,590 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:06:15,701 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:06:15,702 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:06:15,702 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:06:15,703 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 2ms)
+2015-04-06 14:06:15,837 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:06:15,838 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:06:15,839 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:06:15,839 [21] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:06:17,089 [21] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Initializing Examine and binding to business logic events
+2015-04-06 14:06:17,250 [21] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Adding examine event handlers for index providers: 3
+2015-04-06 14:06:18,286 [21] INFO  umbraco.content - [Thread 18] Loading content from disk cache...
+2015-04-06 14:06:19,036 [21] INFO  Umbraco.Web.UmbracoModule - [Thread 22] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome./umbraco
+2015-04-06 14:06:23,996 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Determining hash of code files on disk
+2015-04-06 14:06:24,046 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Hash determined (took 8ms)
+2015-04-06 14:06:24,075 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:06:24,343 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 241ms)
+2015-04-06 14:06:24,459 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:06:24,488 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 26ms)
+2015-04-06 14:06:24,489 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:06:24,518 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 26ms)
+2015-04-06 14:06:24,594 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:06:24,621 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 24ms)
+2015-04-06 14:06:24,623 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:06:24,667 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 41ms)
+2015-04-06 14:06:24,781 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:06:24,796 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 13ms)
+2015-04-06 14:06:24,797 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:06:24,800 [24] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 2ms)
+2015-04-06 14:06:25,984 [24] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Initializing Examine and binding to business logic events
+2015-04-06 14:06:26,147 [24] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Adding examine event handlers for index providers: 3
+2015-04-06 14:06:26,475 [24] INFO  Umbraco.Web.UmbracoModule - [Thread 19] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome./umbraco
+2015-04-06 14:06:27,826 [24] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:06:27,869 [24] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 39ms)
+2015-04-06 14:06:34,522 [10] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 19] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2015-04-06 14:06:43,637 [8] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 19] Application shutdown. Reason: ConfigurationChange
+2015-04-06 14:06:45,724 [24] INFO  Umbraco.Core.PluginManager - [Thread 14] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:06:45,752 [24] INFO  Umbraco.Core.PluginManager - [Thread 14] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 29ms)
+2015-04-06 14:06:49,386 [21] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner`1[[Umbraco.Web.Scheduling.LogScrubber, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null]] - [Thread 9] Application is shutting down immediately
+2015-04-06 14:06:49,386 [21] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner`1[[Umbraco.Web.Scheduling.ScheduledTasks, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null]] - [Thread 9] Application is shutting down immediately
+2015-04-06 14:06:49,386 [21] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner`1[[Umbraco.Web.Scheduling.ScheduledPublishing, umbraco, Version=1.0.5557.19144, Culture=neutral, PublicKeyToken=null]] - [Thread 9] Application is shutting down immediately
+2015-04-06 14:06:49,388 [21] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2015-04-06 14:07:02,830 [24] INFO  Umbraco.Web.Security.WebSecurity - [Thread 19] User Id: 0 logged in
+2015-04-06 14:07:26,973 [24] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-02-05 14:07:26
+2015-04-06 14:07:32,098 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:07:32,148 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 42ms)
+2015-04-06 14:07:32,157 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:07:32,202 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 43ms)
+2015-04-06 14:07:32,372 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:07:32,374 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:07:32,374 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:07:32,375 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:07:32,468 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:07:32,469 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:07:32,469 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:07:32,470 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:07:32,569 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:07:32,570 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:07:32,570 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:07:32,570 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:07:33,710 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 14:07:33,877 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 14:07:34,238 [7] INFO  Umbraco.Web.UmbracoModule - [Thread 8] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome/umbraco
+2015-04-06 14:07:35,398 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:07:35,399 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 0ms)
+2015-04-06 14:07:41,382 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:07:41,382 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 14:07:53,395 [7] INFO  Umbraco.Web.Security.WebSecurity - [Thread 8] User Id: 0 logged in
+2015-04-06 14:08:29,802 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-02-05 14:08:29
+2015-04-06 14:08:38,746 [7] INFO  Umbraco.Web.Security.WebSecurity - [Thread 11] User Id: 0 logged in
+2015-04-06 14:09:26,456 [7] INFO  Umbraco.Web.Security.WebSecurity - [Thread 9] User Id: 0 logged in
+2015-04-06 14:09:48,394 [7] INFO  Umbraco.Web.Security.WebSecurity - [Thread 11] User Id: 0 logged in
+2015-04-06 14:12:02,898 [7] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 18] Application shutdown. Reason: BrowsersDirChangeOrDirectoryRename
+2015-04-06 14:12:02,898 [24] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 33] Application shutdown. Reason: BrowsersDirChangeOrDirectoryRename
+2015-04-06 14:12:47,490 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:12:47,519 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 34ms)
+2015-04-06 14:12:47,527 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:12:47,577 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 43ms)
+2015-04-06 14:12:47,738 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:12:47,740 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:12:47,741 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:12:47,742 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:12:47,782 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:12:47,783 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:12:47,783 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:12:47,784 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:12:47,850 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:12:47,850 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:12:47,851 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:12:47,851 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:12:49,252 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 14:12:49,402 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 14:12:49,784 [13] INFO  Umbraco.Web.UmbracoModule - [Thread 11] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome/umbraco
+2015-04-06 14:12:50,780 [13] INFO  Umbraco.Core.PluginManager - [Thread 11] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:12:50,780 [13] INFO  Umbraco.Core.PluginManager - [Thread 11] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 14:12:51,598 [13] INFO  Umbraco.Web.Security.WebSecurity - [Thread 11] User Id: 0 logged in
+2015-04-06 14:12:51,670 [13] INFO  Umbraco.Web.Security.WebSecurity - [Thread 15] User Id: 0 logged in
+2015-04-06 14:12:55,495 [13] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:12:55,497 [13] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 1ms)
+2015-04-06 14:13:04,115 [13] INFO  Umbraco.Web.Security.WebSecurity - [Thread 11] User Id: 0 logged in
+2015-04-06 14:13:48,608 [13] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-02-05 14:13:48
+2015-04-06 14:14:55,474 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Determining hash of code files on disk
+2015-04-06 14:14:55,492 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Hash determined (took 6ms)
+2015-04-06 14:14:55,525 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:14:55,549 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 23ms)
+2015-04-06 14:14:55,658 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:14:55,658 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:14:55,658 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:14:55,658 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:14:55,673 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:14:55,673 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:14:55,673 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:14:55,673 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:14:55,720 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:14:55,720 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:14:55,720 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:14:55,720 [35] INFO  Umbraco.Core.PluginManager - [Thread 18] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:14:56,774 [35] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Initializing Examine and binding to business logic events
+2015-04-06 14:14:56,914 [35] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 18] Adding examine event handlers for index providers: 3
+2015-04-06 14:15:27,962 [13] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 11] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2015-04-06 14:15:27,944 [35] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 36] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2015-04-06 14:18:38,513 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:18:38,530 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 6ms)
+2015-04-06 14:18:38,595 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:18:38,888 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 297ms)
+2015-04-06 14:18:39,045 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:18:39,048 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2015-04-06 14:18:39,049 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:18:39,052 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 3ms)
+2015-04-06 14:18:39,186 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:18:39,210 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 24ms)
+2015-04-06 14:18:39,210 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:18:39,235 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 24ms)
+2015-04-06 14:18:39,345 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:18:39,348 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 3ms)
+2015-04-06 14:18:39,348 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:18:39,352 [13] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 3ms)
+2015-04-06 14:18:40,971 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 14:18:41,151 [13] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 14:18:41,472 [13] INFO  Umbraco.Web.UmbracoModule - [Thread 12] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome/umbraco
+2015-04-06 14:18:42,864 [13] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:18:42,894 [13] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 30ms)
+2015-04-06 14:18:58,245 [13] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:18:58,245 [13] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 5ms)
+2015-04-06 14:18:58,982 [13] INFO  Umbraco.Web.Security.WebSecurity - [Thread 9] User Id: 0 logged in
+2015-04-06 14:19:40,177 [13] INFO  umbraco.BusinessLogic.Log - [Thread 7] Log scrubbed.  Removed all items older than 2015-02-05 14:19:40
+2015-04-06 14:23:00,566 [13] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 15] Application shutdown. Reason: BrowsersDirChangeOrDirectoryRename
+2015-04-06 14:23:58,305 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Determining hash of code files on disk
+2015-04-06 14:23:58,333 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Hash determined (took 6ms)
+2015-04-06 14:23:58,333 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:23:58,361 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 23ms)
+2015-04-06 14:23:58,460 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:23:58,460 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:23:58,460 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:23:58,460 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:23:58,474 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:23:58,474 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:23:58,474 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:23:58,474 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:23:58,517 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:23:58,517 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:23:58,517 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:23:58,517 [32] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:23:59,453 [32] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 34] Initializing Examine and binding to business logic events
+2015-04-06 14:23:59,589 [32] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 34] Adding examine event handlers for index providers: 3
+2015-04-06 14:24:01,183 [32] INFO  Umbraco.Web.UmbracoModule - [Thread 36] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome./umbraco
+2015-04-06 14:24:02,072 [32] INFO  umbraco.content - [Thread 36] Loading content from disk cache...
+2015-04-06 14:24:02,076 [32] WARN  Umbraco.Web.UmbracoModule - [Thread 36] Umbraco has no content
+2015-04-06 14:24:11,865 [32] INFO  Umbraco.Core.PluginManager - [Thread 33] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:24:11,866 [32] INFO  Umbraco.Core.PluginManager - [Thread 33] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 0ms)
+2015-04-06 14:25:04,518 [32] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-02-05 14:25:04
+2015-04-06 14:25:07,356 [32] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:25:07,357 [32] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 1ms)
+2015-04-06 14:28:32,189 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:28:32,243 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 42ms)
+2015-04-06 14:28:32,256 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:28:32,314 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 55ms)
+2015-04-06 14:28:32,594 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:28:32,599 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 4ms)
+2015-04-06 14:28:32,600 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:28:32,601 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 1ms)
+2015-04-06 14:28:32,644 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:28:32,645 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:28:32,645 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:28:32,647 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:28:32,742 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:28:32,744 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2015-04-06 14:28:32,744 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:28:32,745 [3] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:28:34,911 [3] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 14:28:35,139 [3] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 14:28:35,760 [3] INFO  Umbraco.Web.UmbracoModule - [Thread 9] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome/umbraco
+2015-04-06 14:28:37,023 [3] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:28:37,025 [3] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 1ms)
+2015-04-06 14:28:53,033 [3] INFO  Umbraco.Core.PluginManager - [Thread 15] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:28:53,033 [3] INFO  Umbraco.Core.PluginManager - [Thread 15] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 14:28:53,823 [3] INFO  Umbraco.Web.Security.WebSecurity - [Thread 15] User Id: 0 logged in
+2015-04-06 14:29:36,002 [3] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-02-05 14:29:35
+2015-04-06 14:31:22,825 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:31:22,848 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 10ms)
+2015-04-06 14:31:22,904 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:31:23,013 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 91ms)
+2015-04-06 14:31:23,291 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:31:23,311 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 16ms)
+2015-04-06 14:31:23,312 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:31:23,313 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:31:23,405 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:31:23,406 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 14:31:23,406 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:31:23,408 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:31:23,686 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:31:23,686 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:31:23,688 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:31:23,689 [9] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:31:26,116 [9] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 14:31:26,543 [9] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 14:31:27,541 [9] INFO  Umbraco.Web.UmbracoModule - [Thread 6] Setting OriginalRequestUrl: carpetsathome.local:80/umbraco
+2015-04-06 14:31:27,790 [9] INFO  umbraco.content - [Thread 6] Loading content from disk cache...
+2015-04-06 14:31:27,799 [9] WARN  Umbraco.Web.UmbracoModule - [Thread 6] Umbraco has no content
+2015-04-06 14:31:55,243 [9] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:31:55,244 [9] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 0ms)
+2015-04-06 14:32:17,556 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:32:17,556 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 14:32:18,334 [9] INFO  Umbraco.Web.Security.WebSecurity - [Thread 7] User Id: 0 logged in
+2015-04-06 14:32:18,707 [9] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-06 14:32:18,720 [9] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 11ms)
+2015-04-06 14:32:19,572 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of umbraco.interfaces.IApplication
+2015-04-06 14:32:19,584 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 5ms)
+2015-04-06 14:32:19,908 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-06 14:32:19,908 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-04-06 14:32:19,908 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of umbraco.interfaces.ITree
+2015-04-06 14:32:19,920 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 8ms)
+2015-04-06 14:32:20,446 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of umbraco.interfaces.ITree
+2015-04-06 14:32:20,449 [9] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 4ms)
+2015-04-06 14:32:28,128 [9] INFO  umbraco.BusinessLogic.Log - [Thread 6] Log scrubbed.  Removed all items older than 2015-02-05 14:32:28
+2015-04-06 14:51:26,395 [9] INFO  Umbraco.Core.PluginManager - [Thread 17] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-04-06 14:51:26,407 [9] INFO  Umbraco.Core.PluginManager - [Thread 17] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 10ms)
+2015-04-06 14:51:36,907 [9] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-06 14:51:36,907 [9] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-04-06 14:51:47,578 [9] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 22] Content 'Home' with Id '0' has been published.
+2015-04-06 14:54:43,802 [9] INFO  umbraco.content - [Thread 7] Loading content from database...
+2015-04-06 14:56:11,596 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 14:56:11,614 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 7ms)
+2015-04-06 14:56:11,692 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:56:11,797 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 110ms)
+2015-04-06 14:56:12,092 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:56:12,094 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:56:12,095 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:56:12,096 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:56:12,115 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:56:12,116 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2015-04-06 14:56:12,270 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:56:12,272 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 14:56:12,349 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:56:12,349 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:56:12,350 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:56:12,350 [15] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:56:14,556 [15] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 14:56:14,848 [15] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 14:56:15,737 [15] INFO  Umbraco.Web.UmbracoModule - [Thread 23] Setting OriginalRequestUrl: carpetsathome.local:80/umbraco
+2015-04-06 14:56:16,575 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Determining hash of code files on disk
+2015-04-06 14:56:16,692 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Hash determined (took 114ms)
+2015-04-06 14:56:16,704 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:56:16,828 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 131ms)
+2015-04-06 14:56:17,412 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:56:17,414 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 14:56:17,414 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:56:17,415 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 14:56:17,435 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:56:17,514 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 84ms)
+2015-04-06 14:56:17,515 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:56:17,516 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 2ms)
+2015-04-06 14:56:17,657 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:56:17,657 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 14:56:17,657 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:56:17,657 [7] INFO  Umbraco.Core.PluginManager - [Thread 25] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 14:56:18,869 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.IApplication
+2015-04-06 14:56:18,955 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2015-04-06 14:56:21,296 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 25] Initializing Examine and binding to business logic events
+2015-04-06 14:56:21,519 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 25] Adding examine event handlers for index providers: 3
+2015-04-06 14:56:22,094 [7] INFO  Umbraco.Web.UmbracoModule - [Thread 23] Setting OriginalRequestUrl: localhost:80/CarpetsAtHome/umbraco
+2015-04-06 14:56:28,948 [32] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 13] Application shutdown. Reason: ConfigurationChange
+2015-04-06 14:56:28,948 [9] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 16] Application shutdown. Reason: ConfigurationChange
+2015-04-06 14:56:28,929 [3] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 19] Application shutdown. Reason: ConfigurationChange
+2015-04-06 14:57:04,517 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:57:04,519 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 1ms)
+2015-04-06 14:57:05,147 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.ITree
+2015-04-06 14:57:05,147 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 0ms)
+2015-04-06 14:57:05,164 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-06 14:57:05,165 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-04-06 14:57:05,168 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Starting resolution types of umbraco.interfaces.ITree
+2015-04-06 14:57:05,169 [15] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2015-04-06 14:57:14,518 [15] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-02-05 14:57:14
+2015-04-06 14:57:21,243 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-02-05 14:57:21
+2015-04-06 14:57:50,223 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Determining hash of code files on disk
+2015-04-06 14:57:50,242 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Hash determined (took 7ms)
+2015-04-06 14:57:50,480 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 14:57:50,936 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 418ms)
+2015-04-06 14:57:51,144 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 14:57:51,170 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 22ms)
+2015-04-06 14:57:51,171 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 14:57:51,176 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 4ms)
+2015-04-06 14:57:51,230 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 14:57:51,249 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 17ms)
+2015-04-06 14:57:51,250 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 14:57:51,255 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 4ms)
+2015-04-06 14:57:51,338 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 14:57:51,355 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 16ms)
+2015-04-06 14:57:51,356 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 14:57:51,397 [18] INFO  Umbraco.Core.PluginManager - [Thread 13] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 38ms)
+2015-04-06 14:57:54,504 [18] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 13] Initializing Examine and binding to business logic events
+2015-04-06 14:57:54,752 [18] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 13] Adding examine event handlers for index providers: 3
+2015-04-06 14:57:55,181 [18] INFO  Umbraco.Web.UmbracoModule - [Thread 21] Setting OriginalRequestUrl: carpetsathome.local:80/umbraco
+2015-04-06 14:58:15,904 [15] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 23] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2015-04-06 14:58:15,902 [7] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 18] Application shutdown. Reason: BinDirChangeOrDirectoryRename
+2015-04-06 14:58:35,605 [18] INFO  umbraco.content - [Thread 11] Loading content from disk cache...
+2015-04-06 14:58:35,773 [18] INFO  Umbraco.Core.PluginManager - [Thread 11] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 14:58:35,792 [18] INFO  Umbraco.Core.PluginManager - [Thread 11] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 22ms)
+2015-04-06 14:58:54,786 [18] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-02-05 14:58:54
+2015-04-06 14:59:08,589 [18] INFO  Umbraco.Core.PluginManager - [Thread 6] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-04-06 14:59:08,589 [18] INFO  Umbraco.Core.PluginManager - [Thread 6] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 10ms)
+2015-04-06 15:00:46,598 [18] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of umbraco.interfaces.IApplication
+2015-04-06 15:00:46,603 [18] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 6ms)
+2015-04-06 15:00:55,293 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2015-04-06 15:00:55,300 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 7ms)
+2015-04-06 15:00:55,455 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-04-06 15:00:55,457 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 3ms)
+2015-04-06 15:00:55,573 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.ITree
+2015-04-06 15:00:55,578 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 4ms)
+2015-04-06 15:00:55,656 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.ITree
+2015-04-06 15:00:55,666 [18] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 11ms)
+2015-04-06 15:02:02,324 [18] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 21] Content 'Home' with Id '1047' has been published.
+2015-04-06 15:18:32,201 [18] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 27] An unhandled exception occurred
+System.Web.HttpCompileException (0x80004005): c:\Code\CarpetsAtHome\CarpetsAtHome.Web\Views\Home.cshtml(3): error CS0103: The name '_Layout' does not exist in the current context
+   at System.Web.Compilation.AssemblyBuilder.Compile()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.FileExists(String virtualPath)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.FileExists(ControllerContext controllerContext, String virtualPath)
+   at System.Web.WebPages.DefaultDisplayMode.GetDisplayInfo(HttpContextBase httpContext, String virtualPath, Func`2 virtualPathExists)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at System.Web.WebPages.DisplayModeProvider.GetDisplayInfoForVirtualPath(String virtualPath, HttpContextBase httpContext, Func`2 virtualPathExists, IDisplayMode currentDisplayMode)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.GetPathFromGeneralName(ControllerContext controllerContext, List`1 locations, String name, String controllerName, String areaName, String cacheKey, String[]& searchedLocations)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.GetPath(ControllerContext controllerContext, String[] locations, String[] areaLocations, String locationsPropertyName, String name, String controllerName, String cacheKeyPrefix, Boolean useCache, String[]& searchedLocations)
+   at Microsoft.Web.Mvc.ViewEngineFixWorker`1.FindView(ControllerContext controllerContext, String viewName, String masterName, Boolean useCache)
+   at Umbraco.Core.Profiling.ProfilingViewEngine.FindView(ControllerContext controllerContext, String viewName, String masterName, Boolean useCache)
+   at System.Web.Mvc.ViewEngineCollection.<>c__DisplayClassc.<FindView>b__b(IViewEngine e)
+   at System.Web.Mvc.ViewEngineCollection.Find(Func`2 lookup, Boolean trackSearchedPaths)
+   at Umbraco.Web.Mvc.RenderMvcController.CurrentTemplate[T](T model)
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-04-06 15:18:54,490 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Determining hash of code files on disk
+2015-04-06 15:18:54,537 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Hash determined (took 9ms)
+2015-04-06 15:18:54,537 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 15:18:54,647 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 102ms)
+2015-04-06 15:18:54,819 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 15:18:54,834 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 2ms)
+2015-04-06 15:18:54,834 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 15:18:54,834 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 15:18:54,850 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 15:18:54,850 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 1ms)
+2015-04-06 15:18:54,850 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 15:18:54,850 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 15:18:55,069 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 15:18:55,069 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 15:18:55,069 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 15:18:55,069 [31] INFO  Umbraco.Core.PluginManager - [Thread 34] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 15:18:56,890 [31] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 34] Initializing Examine and binding to business logic events
+2015-04-06 15:18:57,124 [31] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 34] Adding examine event handlers for index providers: 3
+2015-04-06 15:18:57,687 [31] INFO  Umbraco.Web.UmbracoModule - [Thread 32] Setting OriginalRequestUrl: carpetsathome.local:80/umbraco
+2015-04-06 15:19:00,539 [31] INFO  umbraco.content - [Thread 28] Loading content from disk cache...
+2015-04-06 15:19:00,669 [31] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 15:19:00,670 [31] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 15:19:08,800 [18] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 27] Application shutdown. Reason: ConfigurationChange
+2015-04-06 15:19:58,429 [31] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-02-05 15:19:58
+2015-04-06 16:08:10,736 [31] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 11] Application shutdown. Reason: HostingEnvironment
+2015-04-06 16:49:20,365 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-04-06 16:49:20,434 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 56ms)
+2015-04-06 16:49:20,447 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 16:49:20,515 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 63ms)
+2015-04-06 16:49:20,677 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 16:49:20,681 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2015-04-06 16:49:20,681 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 16:49:20,682 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 16:49:20,764 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 16:49:20,764 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 16:49:20,765 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 16:49:20,766 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 16:49:20,917 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 16:49:20,917 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 16:49:20,918 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 16:49:20,918 [8] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 16:49:22,526 [8] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-04-06 16:49:22,746 [8] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-04-06 16:49:23,231 [8] INFO  Umbraco.Web.UmbracoModule - [Thread 7] Setting OriginalRequestUrl: carpetsathome.local:80/umbraco
+2015-04-06 16:49:23,404 [8] INFO  umbraco.content - [Thread 7] Loading content from disk cache...
+2015-04-06 16:49:23,599 [8] INFO  Umbraco.Core.PluginManager - [Thread 7] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 16:49:23,601 [8] INFO  Umbraco.Core.PluginManager - [Thread 7] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 16:50:24,253 [8] INFO  umbraco.BusinessLogic.Log - [Thread 7] Log scrubbed.  Removed all items older than 2015-02-05 16:50:24
+2015-04-06 20:48:53,497 [8] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-02-05 20:48:53
+2015-04-06 21:15:24,898 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Determining hash of code files on disk
+2015-04-06 21:15:24,954 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Hash determined (took 13ms)
+2015-04-06 21:15:24,961 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-04-06 21:15:24,980 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 24ms)
+2015-04-06 21:15:25,130 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-04-06 21:15:25,132 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-04-06 21:15:25,132 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-04-06 21:15:25,133 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-04-06 21:15:25,170 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-04-06 21:15:25,170 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2015-04-06 21:15:25,170 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-04-06 21:15:25,171 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 1ms)
+2015-04-06 21:15:25,280 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-04-06 21:15:25,281 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-04-06 21:15:25,281 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-04-06 21:15:25,281 [30] INFO  Umbraco.Core.PluginManager - [Thread 28] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2015-04-06 21:15:26,553 [30] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 28] Initializing Examine and binding to business logic events
+2015-04-06 21:15:26,705 [30] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 28] Adding examine event handlers for index providers: 3
+2015-04-06 21:15:27,079 [30] INFO  Umbraco.Web.UmbracoModule - [Thread 20] Setting OriginalRequestUrl: carpetsathome.local:80/umbraco
+2015-04-06 21:15:27,202 [30] INFO  umbraco.content - [Thread 20] Loading content from disk cache...
+2015-04-06 21:15:27,343 [30] INFO  Umbraco.Core.PluginManager - [Thread 20] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-04-06 21:15:27,345 [30] INFO  Umbraco.Core.PluginManager - [Thread 20] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 0ms)
+2015-04-06 21:15:46,501 [8] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 20] Application shutdown. Reason: MaxRecompilationsReached
+2015-04-06 21:16:28,198 [30] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-02-05 21:16:28

@@ -1,0 +1,16 @@
+﻿
+.hero-container{
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/client/images/header-image3.png") no-repeat;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 15%;
+
+	  .inner{
+
+	    text-align: center;
+	    h1, p{
+	  		color: #ffffff
+	  }
+
+  }
+}

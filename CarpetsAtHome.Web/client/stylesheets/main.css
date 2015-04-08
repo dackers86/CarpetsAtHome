@@ -1,0 +1,191 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  color: #777;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+p {
+  font-size: 30px;
+}
+
+.button-list button {
+  display: inline-block;
+  margin: 3% 3% 0 3%;
+  border-radius: 1em;
+}
+
+.primary-button {
+  background-color: transparent;
+  padding: 2% 8%;
+  color: white;
+  background-color: #5d963f;
+}
+
+.secondary-button {
+  background-color: transparent;
+  padding: 2% 8%;
+  color: white;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* No files to import found in Themes/**\/* */
+/* No files to import found in Vendor/**\/* */
+.container-header {
+  text-align: center;
+}
+
+.cover-background {
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/header-image3.png") no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin: 0;
+}
+
+.cover-background:before {
+  background: black;
+  opacity: 0.7;
+}
+
+.footer {
+  padding: 1% 0;
+  width: 100%;
+  text-align: center;
+}
+.footer .social-media-icons {
+  display: inline-block;
+  padding: 0 1%;
+}
+.footer .social-media-icons icon {
+  padding: 0 10%;
+}
+.footer .nav {
+  display: inline-block;
+  padding: 2% 0%;
+  font-size: 30px;
+  text-align: center;
+}
+.footer .nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.footer .nav ul li {
+  display: inline;
+}
+.footer .nav ul li a {
+  color: white;
+}
+.footer .sub-nav {
+  display: inline-block;
+  padding: 2% 0%;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 4%;
+}
+.footer .sub-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.footer .sub-nav ul li + li:before {
+  color: #FFFFFF;
+  content: ' | ';
+}
+.footer .sub-nav ul li {
+  display: inline;
+}
+.footer .sub-nav ul li a {
+  color: #FFFFFF;
+}
+.footer .social-media-icons {
+  padding: 4% 8% 1% 8%;
+}
+.footer .social-media-icons .icon-overview {
+  display: inline-block;
+  padding: 0% 0%;
+  text-align: center;
+}
+.footer .upper-section {
+  background-color: #252525;
+}
+.footer .lower-section {
+  font-size: xx-large;
+  background-color: #5d963f;
+  text-align: center;
+  color: #FFFFFF;
+}
+.footer .lower-section h3 {
+  margin: 0;
+  color: #FFFFFF;
+  padding: 1% 0% 0% 0%;
+}
+.footer .lower-section .description {
+  padding: 1% 0% 1% 0%;
+}
+
+.hero-container {
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/client/images/header-image3.png") no-repeat;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 15%;
+}
+.hero-container .inner {
+  text-align: center;
+}
+.hero-container .inner h1, .hero-container .inner p {
+  color: #ffffff;
+}
+
+.circular {
+  width: 100px;
+  height: 100px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+
+.circular-small {
+  width: 100px;
+  height: 100px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+
+.icon {
+  background: url("/client/images/header-image3.png") no-repeat;
+}
+
+.nav {
+  width: 100%;
+}
+.nav .logo {
+  margin: 3% 20%;
+  padding-left: 3%;
+  background: url("../../../../media/paper-plane.png") no-repeat;
+}
+.nav .nav-items {
+  display: inline;
+}
+.nav .nav-items ul li {
+  color: #FFFFFF;
+}
+
+.overview {
+  padding: 8% 8%;
+}
+.overview .product-overview {
+  display: inline-block;
+  padding: 0% 3%;
+  text-align: center;
+  width: 25%;
+}

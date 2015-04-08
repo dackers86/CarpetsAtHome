@@ -1,0 +1,20 @@
+.button-list{
+	button{
+		display: inline-block;
+		margin : 3% 3% 0 3%;
+	    border-radius: 1em;
+	}
+}
+
+.primary-button{
+		background-color: transparent;
+		padding: 2% 8%;
+		color: white;
+		background-color: #5d963f;
+	}
+
+.secondary-button{
+		background-color: transparent;
+		padding: 2% 8%;
+		color: white;
+	}
