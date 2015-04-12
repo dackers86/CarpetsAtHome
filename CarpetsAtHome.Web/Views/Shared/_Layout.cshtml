@@ -4,51 +4,69 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>Carpets At Home</title>
-    @Styles.Render("~/Content/css")
 </head>
-<body>
-
-    @RenderBody()
+<body ng-app="CarpetsAtHomeApp">
+    <span class="header">
+        <div class="title">
+            Carpets At Home
+        </div>
+        <div class="nav">
+            <ul>
+                <li><a href="/home">Home</a></li>
+                <li><a href="/latest-offers">Latest Offers</a></li>
+                <li><a href="/products">Products</a></li>
+            </ul>
+        </div>
+    </span>
+    <div class="main-content">
+        @RenderBody()
+    </div>
     <div class="footer">
-    	<div class="upper-section">
-	    	<div class="social-media-icons">
-				<div class="icon-overview">
-					<div class="icon circular"></div>
-				</div>
-				<div class="icon-overview">
-					<img class="icon circular"></img>
-				</div>
-				<div class="icon-overview">
-					<img class="icon circular"></img>
-				</div>
-				<div class="icon-overview">
-					<img class="icon circular"></img>
-				</div>
-			</div>
-	    	<div class="nav">
-	    		<ul>
-		    		<li><a href="/home">Home</a></li>
-		    		<li><a href="/home">Menu</a></li>
-		    		<li><a href="/home">Story</a></li>
-		    		<li><a href="/home">Detox</a></li>
-		    		<li><a href="/home">Locations</a></li>
-		    	</ul>
-	    	</div>
-	    	<div class="sub-nav">
-	    	    <ul>
-		    		<li><a href="/home">Content</a></li>
-		    		<li><a href="/home">Blog</a></li>
-		    		<li><a href="/home">Catering</a></li>
-		    		<li><a href="/home">Delivery</a></li>
-		    	</ul>
-	    	</div>
-	    </div>
-	    <div class="lower-section">
-			<h3>HEALTHY FAST-CASUAL FOOD, CRAFTED WITH  IN MINNEAPOLIS</h3>
-    		<p class="description">©AGRA CULTURE KITCHEN & PRESS | ALL RIGHTS RESERVED</p>	
-	    </div>
+        <div class="upper-section">
+            <div class="social-media-icons">
+                <div class="icon-overview">
+                    <div class="icon circular"></div>
+                </div>
+                <div class="icon-overview">
+                    <img class="icon circular"></img>
+                </div>
+                <div class="icon-overview">
+                    <img class="icon circular"></img>
+                </div>
+                <div class="icon-overview">
+                    <img class="icon circular"></img>
+                </div>
+            </div>
+            <div class="nav">
+                <ul>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/home">Menu</a></li>
+                    <li><a href="/home">Story</a></li>
+                    <li><a href="/home">Detox</a></li>
+                    <li><a href="/home">Locations</a></li>
+                </ul>
+            </div>
+            <div class="sub-nav">
+                <ul>
+                    <li><a href="/home">Content</a></li>
+                    <li><a href="/home">Blog</a></li>
+                    <li><a href="/home">Catering</a></li>
+                    <li><a href="/home">Delivery</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="lower-section">
+            <h3>HEALTHY FAST-CASUAL FOOD, CRAFTED WITH  IN MINNEAPOLIS</h3>
+            <p class="description">©AGRA CULTURE KITCHEN & PRESS | ALL RIGHTS RESERVED</p>
+        </div>
     </div>
 
     <link rel="stylesheet" type="text/css" href="~/client/stylesheets/main.css">
+    <link href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css' rel='stylesheet' type='text/css'>
+    <script src="\client\javascripts\vendor\bower_components\jquery\dist\jquery.js"></script>
+    <script src="\client\javascripts\vendor\bower_components\jquery-ui\jquery-ui.js"></script>
+    <script src="\client\javascripts\vendor\bower_components\angular\angular.js"></script>
+    <script src="\client\javascripts\controller.js"></script>
+    <script src="\client\javascripts\main.js"></script>
 </body>
 </html>

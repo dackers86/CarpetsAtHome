@@ -1,0 +1,62 @@
+.latest-offers{
+	
+	.container{
+		padding: 0% 0% 5% 0%;
+	}
+
+	.offer{
+
+		  width: 40%;
+	  	  padding: 5%;
+
+		.logo-container{
+
+			width: 50%;
+			display: inline;
+	  		float: left;
+
+			.product-logo{
+				width: 60%;
+			}
+
+			.share-social-media{
+
+			.icon{
+
+				display:inline-block;
+				float: left;
+				background-size: 90% 100%;
+				padding: 12% 21% 0% 0%; 
+
+				.fb{
+					  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/client/images/header-image3.png") no-repeat;
+				}
+
+				.twitter{
+					  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/client/images/header-image3.png") no-repeat;
+				}
+
+				.favourites{
+					  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/client/images/header-image3.png") no-repeat;
+				}
+
+				}
+			}
+		}
+
+		.product-details{	
+			display: inline;
+  			float: left;
+  			width: 50%;
+			
+			.title{
+				display:inline-block;
+				float: left;
+			}
+			.product-detail{
+				padding: 0% 0% 0% 70%
+			}
+		}
+
+	}
+}

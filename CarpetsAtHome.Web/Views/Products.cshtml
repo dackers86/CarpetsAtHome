@@ -1,0 +1,129 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+<div class="container" ng-controller="productController">
+    <div class="product-filter">
+        <div class="filter-header">
+            <div class="title">Filter</div>
+        </div>
+        <div class="settings">
+            <div class="filter">
+                    <div class="title">
+                        Product Type:
+                    </div>
+                    <div class="setting">
+                       Carpets : <input type="checkbox" />
+                       Laminate : <input type="checkbox"  />
+                       Vinyl : <input type="checkbox" />
+                    </div>
+                    <hr />
+            </div>
+            <div class="filter">
+                <div class="title">Price range::</div>
+                <div class="setting"> 
+                    <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;"> 
+                    <div id="slider-range"></div>
+                </div>
+                <hr />
+            </div>
+
+            <div class="filter">
+                <div class="title">
+                    Colour:
+                </div>
+                <div class="setting">
+                   <select>
+                        <option value="Brown">Brown</option>
+                        <option value="Cream">Cream</option>
+                   </select>
+                </div>
+                <hr />
+            </div>
+        </div>
+    </div>
+    <div class="product-overview">
+        <div ng-repeat="product in Products | filter:priceFilter(product.item.price)">
+            <div class="overview-container">
+                <div class="product">
+                    <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZSgPKQCpqwp0SFatDTuvsqu0Og8iuiGqNBLc6Dltq1uaNKwjmAw" class="product"></img>
+                    <div class="overlay">
+                        <div class="product-details">
+                            <div class="title">
+                                Carpets
+                            </div>
+                            <div class="description">
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+   
+        <div class="overview-container">
+            <div class="product">
+                <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZSgPKQCpqwp0SFatDTuvsqu0Og8iuiGqNBLc6Dltq1uaNKwjmAw" class="product"></img>
+                <div class="overlay">
+                    <div class="product-details">
+                        <div class="title">
+                            Laminate
+                        </div>
+                        <div class="description">
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="overview-container">
+            <div class="product">
+                <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZSgPKQCpqwp0SFatDTuvsqu0Og8iuiGqNBLc6Dltq1uaNKwjmAw" class="product"></img>
+                <div class="overlay">
+                    <div class="product-details">
+                        <div class="title">
+                            Laminate
+                        </div>
+                        <div class="description">
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+    <div class="latest-offers">
+        <div class="container" ng-controller="productController">
+            <div ng-repeat="product in Products">
+                <div class="offer clearfix">
+                    <div class="logo-container">
+                        <img class="product-logo" src="{{product.item.logoUrl}}">
+                        <div class="share-social-media">
+                            <div class="icon fb"></div>
+                            <div class="icon twitter"></div>
+                            <div class="icon favourites"></div>
+                        </div>
+                    </div>
+                    <div class="product-details">
+    	                <div class="title">Name:</div>
+    	                <div class="product-detail">{{product.item.name}}</div>
+    	                <div class="title">Type:</div>
+    	                <div class="product-detail">{{product.item.type}}</div>
+    	                <div class="title">General Details:</div>
+    	                <div class="product-detail">{{product.item.generaldetails}}</div>
+    	                <div class="title">Price:</div>
+    	                <div class="product-detail">{{product.item.price}}</div>
+    	                <div class="title">Rating:</div>
+    	                <div class="product-detail">{{product.item.rating}}</div>
+    	                <div class="title">Sales Count:</div>
+    	                <div class="product-detail">{{product.item.salescount}}</div>
+    	            </div>
+                </div>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
